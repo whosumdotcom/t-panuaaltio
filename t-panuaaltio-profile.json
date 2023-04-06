@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T14:11:29Z",
+  "IdClaims": [
+    {
+      "Claim": "t:panuaaltio"
+    },
+    {
+      "Claim": "mdon:@panuaaltio@mas.to"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "20ef80597f56177474df90a7",
+    "Timestamp": "2023-04-06T14:13:06Z",
+    "Signature": "66c2c6bf58813cfdd0d1858d386cdd0b67fd74997b200a91d58724b136ad4bd8238e4650c4cfe30527dfa3fd9c1da11ff72b7f18c1f30cd1648eafa6400d70b82602847543632835d218d0cd862b3c5cb1aefd09518ad05ad387cc0fd3462c0bc279bafdd33a17a96f9edb94fe0723902ed10ab4d98c371104c46775178561b2cc54663159d4a8503989d733a39c0f5643eecbf6037d9812dd3b35e4e4c6203fa8fca2022c4e16a6baba6de3f5c066734338967f70f11246176765a84b52bc2a5c65e753329d96b1b011925151db9fccf4b15aa4ec1a555bf93537d44749e4a1467961fd23854fc1aaf01f367014f8a0693c27e1e8bde907ce92a40e939c5667"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "527a1ee5a3985c7002a8bbdc891851e1cfce562e25eaa8fc8013a4d3d07c4313",
+  "ContentToHash": "v1|mdon:@panuaaltio@mas.to,t:panuaaltio|2023-04-06T14:11:29Z"
+}
